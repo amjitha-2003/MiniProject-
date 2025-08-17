@@ -39,3 +39,5 @@ PHASE 2 :-
    •	Clustered column chart
    •	Filled map
 6) Dashboard created.
+7) Bottons and Book marks are added.
+
