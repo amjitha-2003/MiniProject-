@@ -1,4 +1,4 @@
-# MiniProject-
+# MiniProject- Power Bi
 120 Years of Olympic History Athletes and Results 
 
 This is my MiniProject 120 Years of Olympic History Athletes and Results.This project is a Power BI dashboard built using the provided uncleaned dataset include 2 sheets Athlete_events & noc_region.The project was executed in two distinct phases.
